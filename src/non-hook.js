@@ -43,15 +43,15 @@ class App extends Component {
   state = {
     todos: [
       {
-        text: 'Learn about React',
+        text: 'Learn about React Hooks',
         isCompleted: false,
       },
       {
-        text: 'Meet friend for lunch',
+        text: 'Come up with an idea for project 3',
         isCompleted: false,
       },
       {
-        text: 'Build really cool todo app',
+        text: 'Start working on project 3',
         isCompleted: false,
       },
     ],
