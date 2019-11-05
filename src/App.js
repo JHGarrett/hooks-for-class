@@ -41,19 +41,19 @@ function TodoForm({ addTodo }) {
 function App() {
   const [todos, setTodos] = useState([
     {
-      text: 'Learn about React Hooks',
+      text: 'Learn about storing Data',
       isCompleted: false,
     },
     {
-      text: 'Come up with an idea for project 3',
+      text: 'Punch NES in the Throat',
       isCompleted: false,
     },
     {
-      text: 'Start working on project 3',
+      text: 'Have Nathaniel Anderson wash his ass',
       isCompleted: false,
     },
     {
-      text: 'Take a big nap',
+      text: 'Help Jeff pronounce GIF',
       isCompleted: false,
     },
   ]);
